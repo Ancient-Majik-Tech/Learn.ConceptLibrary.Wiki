@@ -1,14 +1,14 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Learn/LearnHome.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Project/ProjectHome.md#system-layout
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Changes/ChangesHome.md
 
-[Sec Welcome]:[page]#welcome
-[Sec Tuts]:[page]#tutorials
+[Sec Welcome]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Learn/LearnHome.md#welcome
+[Sec Tuts]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Learn/LearnHome.md#tutorials
 
-# Realms Wiki Collection: "[Project Name]" - Learn
+# Realms Wiki Collection: "Realms Conceptual Library" - Learn
 
 ## Collect Index
 
@@ -27,6 +27,12 @@
 
 ### Welcome
 
-Welcome to the Learning section for [[Project Name]][Page Home]. Here you will be provided in depth learning which will we home will help Staff, people hoping to become staff, volunteers, users and modders alike will have better understanding of the project and we can all work to make our projects all they can be through hard work, perserverence and teamwork.
+Welcome to the Learning section for [Realms Conceptual Library][Page Home]. Here you will be provided in depth learning which will we home will help Staff, people hoping to become staff, volunteers, users and modders alike will have better understanding of the project and we can all work to make our projects all they can be through hard work, perserverence and teamwork.
 
 ### Tutorials
+
+- Tutorials
+	- [What is this Project][Tut WhatIs]
+	- [Why this Project][Tut Why]
+	- [How to Use][Tut How]
+	

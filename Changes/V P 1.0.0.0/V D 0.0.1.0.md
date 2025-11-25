@@ -1,10 +1,10 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Project/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Learn/LearnHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Changes/ChangesHome.md
 
 [Page Change Previous]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Page Change Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md

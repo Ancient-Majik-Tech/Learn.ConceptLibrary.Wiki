@@ -1,21 +1,24 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/README.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Learn/LearnHome.md
 
-[Sec Standards]:{Page]#design-standards
-[Sec Details]:[Page]#project-details
-[Sec Layout]:[Page]#system-layout
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md#system-layout
 
-[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Project/ProjectHome.md
+[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/Changes/ChangesHome.md
 
 [Tag Proj NonVer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Tag Proj Versioner]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Tag Proj PublicWiki]:link
 
-# Realms Wiki Collections: "[Project Name]" - Project
+[Sys Host]:https://github.com/Ancient-Majik-Tech/Learn.ConceptLibrary.Wiki/blob/main/HandledProjects/Wiki/Systems/LinkerSys.md
 
-Welcome to the project documentation for [Project Name].
+# Realms Wiki Collections: "Realms Conceptual Library Public Wiki" - Project
+
+Welcome to the project documentation for Realms Conceptual Library Public Wiki.
 
 
 ## Collection Index
@@ -39,23 +42,26 @@ This feature is currently under work.
 
 ### Project Details
 
-- [Project Name]
+- Realms Conceptual Library Public Wiki
 	- Tags
 		- [NonVersioned][Tag Proj NonVer]
-		- [Versioner][Tag Proj Versioner]< [[Parent Project]][Proj Parent], [Versioning][Proj Parent Versions]>
+		- [Versioner][Tag Proj Versioner]< [E.AMT.Learn.ConceptLibrary][Proj Parent], [Versioning][Proj Parent Versions] >
+		- [PublicWiki][Tag Proj PublicWiki]
 	- Type: PublicWiki
-	- Category: [Category]
-	- Project ID: [UserID].[Category].[ProjID]
-	- Project ID Piece: [ProjectIDPiece]
+	- Category: Social.Wiki
+	- Project ID: E.AMT.Learn.ConcepLibrary.Wiki
+	- Project ID Piece: ConceptLibWiki
 	- [Systems][Sec Layout]
 	- Team Access:
 		- None
 	- Owner:
-		- [UserID]
+		- E.AMT
 
-[Project Desc]
+This project is dedicated to providing the Realms Concept Library with a public interaction point.
 
 ### System Layout
 
 - Systems
+	- [Public Wiki Hosting][Sys Host]
+
 
